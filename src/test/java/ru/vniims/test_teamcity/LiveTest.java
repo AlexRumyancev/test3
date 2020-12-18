@@ -10,6 +10,6 @@ class LiveTest {
 
     @Test
     void getTest() {
-        System.out.println() ;
+        System.out.println()  ;
     }
 }
